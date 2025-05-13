@@ -1,0 +1,9 @@
+demograph,top,top_og,selection_rate,disparate_impact_ratio
+W_M,0,0,0.0,0.0
+B_W,1,1,0.1,0.25
+B_M,0,1,0.0,0.0
+W_W,3,3,0.3,0.75
+A_M,2,1,0.2,0.5
+H_W,4,4,0.4,1.0
+H_M,0,0,0.0,0.0
+A_W,0,0,0.0,0.0
