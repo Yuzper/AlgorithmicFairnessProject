@@ -1,0 +1,1 @@
+Exam project for Algorithmic Fairness, Accountability and Ethics course at ITU. Project is on fairness in generative AI, with focus on using generative models as a job recruiter to sort through candiates.
